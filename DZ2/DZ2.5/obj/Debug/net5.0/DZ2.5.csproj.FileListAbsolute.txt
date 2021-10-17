@@ -1,0 +1,16 @@
+C:\Users\Viskhan\source\repos\OOP-DZ2\DZ2.5\bin\Debug\net5.0\DZ2.5.exe
+C:\Users\Viskhan\source\repos\OOP-DZ2\DZ2.5\bin\Debug\net5.0\DZ2.5.deps.json
+C:\Users\Viskhan\source\repos\OOP-DZ2\DZ2.5\bin\Debug\net5.0\DZ2.5.runtimeconfig.json
+C:\Users\Viskhan\source\repos\OOP-DZ2\DZ2.5\bin\Debug\net5.0\DZ2.5.runtimeconfig.dev.json
+C:\Users\Viskhan\source\repos\OOP-DZ2\DZ2.5\bin\Debug\net5.0\DZ2.5.dll
+C:\Users\Viskhan\source\repos\OOP-DZ2\DZ2.5\bin\Debug\net5.0\ref\DZ2.5.dll
+C:\Users\Viskhan\source\repos\OOP-DZ2\DZ2.5\bin\Debug\net5.0\DZ2.5.pdb
+C:\Users\Viskhan\source\repos\OOP-DZ2\DZ2.5\obj\Debug\net5.0\DZ2.5.csproj.AssemblyReference.cache
+C:\Users\Viskhan\source\repos\OOP-DZ2\DZ2.5\obj\Debug\net5.0\DZ2.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viskhan\source\repos\OOP-DZ2\DZ2.5\obj\Debug\net5.0\DZ2.5.AssemblyInfoInputs.cache
+C:\Users\Viskhan\source\repos\OOP-DZ2\DZ2.5\obj\Debug\net5.0\DZ2.5.AssemblyInfo.cs
+C:\Users\Viskhan\source\repos\OOP-DZ2\DZ2.5\obj\Debug\net5.0\DZ2.5.csproj.CoreCompileInputs.cache
+C:\Users\Viskhan\source\repos\OOP-DZ2\DZ2.5\obj\Debug\net5.0\DZ2.5.dll
+C:\Users\Viskhan\source\repos\OOP-DZ2\DZ2.5\obj\Debug\net5.0\ref\DZ2.5.dll
+C:\Users\Viskhan\source\repos\OOP-DZ2\DZ2.5\obj\Debug\net5.0\DZ2.5.pdb
+C:\Users\Viskhan\source\repos\OOP-DZ2\DZ2.5\obj\Debug\net5.0\DZ2.5.genruntimeconfig.cache

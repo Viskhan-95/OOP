@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OOP-DZ2/1.0.0": {
+        "runtime": {
+          "OOP-DZ2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP-DZ2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
