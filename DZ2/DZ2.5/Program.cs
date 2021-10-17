@@ -18,7 +18,7 @@ namespace DZ2._5
                   BankAccountType.calculated.ToString());
 
 
-            //Вызываем метод снятия со счета и выводим данные о счете на экран
+            //Вызываем метод снятия со счета и выводим данные о счете
             if(newBankAccounts.Withdraw(50_000))
             {
                 Console.WriteLine("Операция снятия со счета выполнена успешно");
