@@ -1,0 +1,16 @@
+C:\Users\Viskhan\Desktop\GeekBrains\OOP\DZ3\DZ3.3\bin\Debug\net5.0\DZ3.3.exe
+C:\Users\Viskhan\Desktop\GeekBrains\OOP\DZ3\DZ3.3\bin\Debug\net5.0\DZ3.3.deps.json
+C:\Users\Viskhan\Desktop\GeekBrains\OOP\DZ3\DZ3.3\bin\Debug\net5.0\DZ3.3.runtimeconfig.json
+C:\Users\Viskhan\Desktop\GeekBrains\OOP\DZ3\DZ3.3\bin\Debug\net5.0\DZ3.3.runtimeconfig.dev.json
+C:\Users\Viskhan\Desktop\GeekBrains\OOP\DZ3\DZ3.3\bin\Debug\net5.0\DZ3.3.dll
+C:\Users\Viskhan\Desktop\GeekBrains\OOP\DZ3\DZ3.3\bin\Debug\net5.0\ref\DZ3.3.dll
+C:\Users\Viskhan\Desktop\GeekBrains\OOP\DZ3\DZ3.3\bin\Debug\net5.0\DZ3.3.pdb
+C:\Users\Viskhan\Desktop\GeekBrains\OOP\DZ3\DZ3.3\obj\Debug\net5.0\DZ3.3.csproj.AssemblyReference.cache
+C:\Users\Viskhan\Desktop\GeekBrains\OOP\DZ3\DZ3.3\obj\Debug\net5.0\DZ3.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viskhan\Desktop\GeekBrains\OOP\DZ3\DZ3.3\obj\Debug\net5.0\DZ3.3.AssemblyInfoInputs.cache
+C:\Users\Viskhan\Desktop\GeekBrains\OOP\DZ3\DZ3.3\obj\Debug\net5.0\DZ3.3.AssemblyInfo.cs
+C:\Users\Viskhan\Desktop\GeekBrains\OOP\DZ3\DZ3.3\obj\Debug\net5.0\DZ3.3.csproj.CoreCompileInputs.cache
+C:\Users\Viskhan\Desktop\GeekBrains\OOP\DZ3\DZ3.3\obj\Debug\net5.0\DZ3.3.dll
+C:\Users\Viskhan\Desktop\GeekBrains\OOP\DZ3\DZ3.3\obj\Debug\net5.0\ref\DZ3.3.dll
+C:\Users\Viskhan\Desktop\GeekBrains\OOP\DZ3\DZ3.3\obj\Debug\net5.0\DZ3.3.pdb
+C:\Users\Viskhan\Desktop\GeekBrains\OOP\DZ3\DZ3.3\obj\Debug\net5.0\DZ3.3.genruntimeconfig.cache
