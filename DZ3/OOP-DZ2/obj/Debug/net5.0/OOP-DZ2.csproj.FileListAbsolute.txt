@@ -1,0 +1,16 @@
+C:\Users\Viskhan\source\repos\OOP-DZ2\OOP-DZ2\obj\Debug\net5.0\OOP-DZ2.csproj.AssemblyReference.cache
+C:\Users\Viskhan\source\repos\OOP-DZ2\OOP-DZ2\obj\Debug\net5.0\OOP-DZ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viskhan\source\repos\OOP-DZ2\OOP-DZ2\obj\Debug\net5.0\OOP-DZ2.AssemblyInfoInputs.cache
+C:\Users\Viskhan\source\repos\OOP-DZ2\OOP-DZ2\obj\Debug\net5.0\OOP-DZ2.AssemblyInfo.cs
+C:\Users\Viskhan\source\repos\OOP-DZ2\OOP-DZ2\obj\Debug\net5.0\OOP-DZ2.csproj.CoreCompileInputs.cache
+C:\Users\Viskhan\source\repos\OOP-DZ2\OOP-DZ2\bin\Debug\net5.0\OOP-DZ2.exe
+C:\Users\Viskhan\source\repos\OOP-DZ2\OOP-DZ2\bin\Debug\net5.0\OOP-DZ2.deps.json
+C:\Users\Viskhan\source\repos\OOP-DZ2\OOP-DZ2\bin\Debug\net5.0\OOP-DZ2.runtimeconfig.json
+C:\Users\Viskhan\source\repos\OOP-DZ2\OOP-DZ2\bin\Debug\net5.0\OOP-DZ2.runtimeconfig.dev.json
+C:\Users\Viskhan\source\repos\OOP-DZ2\OOP-DZ2\bin\Debug\net5.0\OOP-DZ2.dll
+C:\Users\Viskhan\source\repos\OOP-DZ2\OOP-DZ2\bin\Debug\net5.0\ref\OOP-DZ2.dll
+C:\Users\Viskhan\source\repos\OOP-DZ2\OOP-DZ2\bin\Debug\net5.0\OOP-DZ2.pdb
+C:\Users\Viskhan\source\repos\OOP-DZ2\OOP-DZ2\obj\Debug\net5.0\OOP-DZ2.dll
+C:\Users\Viskhan\source\repos\OOP-DZ2\OOP-DZ2\obj\Debug\net5.0\ref\OOP-DZ2.dll
+C:\Users\Viskhan\source\repos\OOP-DZ2\OOP-DZ2\obj\Debug\net5.0\OOP-DZ2.pdb
+C:\Users\Viskhan\source\repos\OOP-DZ2\OOP-DZ2\obj\Debug\net5.0\OOP-DZ2.genruntimeconfig.cache
